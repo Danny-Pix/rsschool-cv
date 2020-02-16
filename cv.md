@@ -23,8 +23,6 @@ Confident knowledge of HTML, CSS/SCSS. I attend courses in order to strengthen m
 - Adobe Photoshop
 - Avocode 
 - GIT
-- VS Code
-- Webstorm
 - SQL DB (MySQL) 
 5. Other skills:
 - Advanced Windows user
